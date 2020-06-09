@@ -16,7 +16,7 @@ int main()
 	std::cout << "Array after sorting: ";
 	print_func(test_array, size);
 
-
+	std::cout << "OK\n";
 
 	return 0;
 }
